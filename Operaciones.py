@@ -8,7 +8,8 @@ print ("La suma es :  ",  a + b)
 print ("La resta es :  ", a - b)
 print ("La multi es :  ", a * b)
 if b == 0:
-    print ("Dato invalido")
-    
+    print ("Dato invalido")   
 else:    
     print ("La div es :   ",   a / b)
+    
+    #EDITADO PARA VER SI FUNCIONA 
